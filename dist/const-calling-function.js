@@ -1,2 +1,2 @@
-import { fooVar } from "const-calling-function-utilities";
+import { fooVar } from "side-effects";
 fooVar;
