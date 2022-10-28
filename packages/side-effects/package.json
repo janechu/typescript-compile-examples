@@ -1,5 +1,5 @@
 {
-  "name": "const-calling-function-utilities",
+  "name": "side-effects",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",

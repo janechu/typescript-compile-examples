@@ -9,12 +9,8 @@ var __assign = (this && this.__assign) || function () {
     };
     return __assign.apply(this, arguments);
 };
-function foo() {
-    console.log("foo");
-}
 function bar(myObj) {
     console.log("bar");
     return __assign({}, myObj);
 }
-export var fooVar = foo();
 export var barVar = bar({ a: "b", c: "d" });
