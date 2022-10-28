@@ -1,3 +1,3 @@
-import { fooVar } from "./const-calling-function.utilities";
+import { fooVar } from "const-calling-function-utilities";
 
 fooVar;

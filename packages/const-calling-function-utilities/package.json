@@ -1,0 +1,22 @@
+{
+  "name": "const-calling-function-utilities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "private": true,
+  "sideEffects": false,
+  "scripts": {
+    "build": "npm run build:tsc",
+    "build:tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janechu/typescript-compile-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janechu/typescript-compile-examples/issues"
+  },
+  "homepage": "https://github.com/janechu/typescript-compile-examples#readme"
+}
