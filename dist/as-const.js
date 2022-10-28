@@ -27,4 +27,13 @@ var MyEnumBar = {
 // tree shaking example with use
 console.log(MyEnumFoo.valueOne);
 console.log(MyEnumBar.valueOne);
+// test
+console.log(Object.values(MyEnumBar));
+// test 2
+function test2() {
+    for (var key in MyEnumBar) {
+        console.log("what", key);
+    }
+}
+test2();
 export {};
