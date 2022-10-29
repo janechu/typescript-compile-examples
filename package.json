@@ -10,7 +10,8 @@
   "scripts": {
     "build": "npm run build:tsc && npm run build:webpack",
     "build:tsc": "tsc",
-    "build:webpack": "webpack"
+    "build:webpack": "webpack",
+    "serve:const-calling-function": "node ./server.js const-calling-function"
   },
   "repository": {
     "type": "git",
