@@ -21,3 +21,7 @@ These results use the webpack compile (`www` folder) and https://jsbench.me/
 | Enum | As Const Frozen |
 |-|-|
 |20.29% slower | **Fastest**
+
+### Exported Const Variables vs Exported Type
+
+These appear to generate the same result when passed through webpack.

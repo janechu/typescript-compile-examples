@@ -1,10 +1,9 @@
 {
-  "name": "side-effects",
+  "name": "values",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "private": true,
-  "sideEffects": false,
   "scripts": {
     "build": "npm run build:tsc",
     "build:tsc": "tsc"

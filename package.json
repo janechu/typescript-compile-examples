@@ -25,10 +25,12 @@
   },
   "homepage": "https://github.com/janechu/typescript-compile-examples#readme",
   "dependencies": {
-    "side-effects": "^1.0.0",
     "resolve-typescript-plugin": "^1.2.0",
+    "side-effects": "^1.0.0",
     "ts-loader": "^9.3.1",
+    "types": "^1.0.0",
     "typescript": "^4.7.4",
+    "values": "^1.0.0",
     "webpack": "^5.74.0",
     "webpack-cli": "^4.10.0"
   }

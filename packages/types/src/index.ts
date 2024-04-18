@@ -1,0 +1,1 @@
+export type TypeAsSpecificValue = "foo" | "bar" | "bat" | "baz";

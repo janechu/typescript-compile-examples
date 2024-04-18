@@ -13,7 +13,9 @@ module.exports = {
         "enum": path.resolve(appDir, "enum.ts"),
         "as-const": path.resolve(appDir, "as-const.ts"),
         "as-const-frozen": path.resolve(appDir, "as-const-frozen.ts"),
-        "const-calling-function": path.resolve(appDir, "const-calling-function")
+        "const-calling-function": path.resolve(appDir, "const-calling-function.ts"),
+        "import-const-values": path.resolve(appDir, "import-const-values.ts"),
+        "import-type-as-specific-value": path.resolve(appDir, "import-type-as-specific-value.ts"),
     },
     resolve: {
         extensions: [".ts", ".js"],
