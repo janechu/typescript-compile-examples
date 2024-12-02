@@ -22,7 +22,7 @@ var MyEnumBar = {
     valueFifteen: 15,
     valueSixteen: 16,
     valueSeventeen: 17,
-    valueEighteen: 18
+    valueEighteen: 18,
 };
 // tree shaking example with use
 console.log(MyEnumFoo.valueOne);
